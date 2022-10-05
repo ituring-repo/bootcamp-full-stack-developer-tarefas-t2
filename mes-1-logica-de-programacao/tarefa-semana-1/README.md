@@ -11,7 +11,7 @@ Na tarefa da semana 1, teremos as seguintes etapas:
 - **[Etapa 6:](#etapa-6-dominando-declaração-de-variáveis-atribuição-de-valores-e-operações-com-javascript)** Dominando declaração de variáveis, atribuição de valores e operações com JavaScript
 - **[Enviando sua tarefa no Discord](#enviando-a-sua-tarefa-no-discord)**
 
-**Importante:** realize as etapas 4, 5 e 6 apenas depois de participar da 2ª aula desta semana, na quarta-feira.
+**IMPORTANTE:** realize as etapas 4, 5 e 6 apenas depois de participar da 2ª aula desta semana.
 
 ## Etapa 1: Instalando o ambiente de desenvolvimento e preparando a caixa de ferramentas
 
@@ -32,9 +32,9 @@ Para instalar o VSCODE, basta entrar [aqui](https://code.visualstudio.com/) e se
 
 ### Instalando o terminal e o Git no seu computador
 
-Como vimos na 1ª aula, o terminal é onde a gente consegue interagir com o sistema operacional por meio de **comandos de texto**. Estamos acostumados a interagir com o sistema operacional (Windows, MacOS, etc) por meio da interface, onde manipulamos janelas, entramos em programas "clicando 2 vezes" com o mouse, navegamos por pastas, etc. Já a outra forma de interagir com o SO é por meio de comandos de texto. No terminal nós fazemos isso, nós enviamos comandos de texto para navegar em pastas, abrir e executar arquivos, configurar ferramentas, etc.
+Como vimos na 1ª aula, o terminal é onde a gente consegue interagir com o sistema operacional por meio de **comandos de texto**. Estamos acostumados a interagir com o sistema operacional (Windows, MacOS, etc) por meio da interface, onde manipulamos janelas, entramos em programas "clicando 2 vezes" com o mouse, navegamos por pastas, etc. Já a outra forma de interagir com o SO (Sistema Operacional) é por meio de comandos de texto. No terminal nós fazemos isso. Nós digitamos textos para navegar em pastas, abrir e executar arquivos, configurar ferramentas, etc.
 
-**Nunca esqueça!** No terminal, você **sempre** está em algum lugar! O terminal é como um navegador de pastas. Você sempre estará em alguma pasta do seu computador.
+**Nunca se esqueça!** no terminal, você **sempre** está em algum lugar! O terminal é como um navegador de pastas. Você sempre estará em alguma pasta do seu computador. Por isso, certifique-se sempre de que está no lugar correto quando for executar algum comando.
 
 Como podemos instalar o terminal? Vamos ver agora. Siga as instruções do SO que você estiver utilizando.
 
@@ -61,7 +61,19 @@ O Node nós vamos utilizar diariamente enquanto estivermos programando. Ele é o
 
 Um compilador converte um programa inteiro em zeros e uns, o idioma que o computador entende. Já um interpretador é como se fosse uma tradução simultânea, ele vai convertendo partes do código em código binário e executando-os sequencialmente. Todos os programas de computador do mundo passam por este processo de interpretação ou compilação. Programas e aplicativos que você utiliza diariamente foram criados assim.
 
-Para instalar o Node, independente do seu sistema operacional, basta clicar [aqui](https://nodejs.org/en/) e em seguida clicar no botão de download que tem a sigla "LTS". Em seguida, basta seguir as instruções de instalação e pronto! Se surgir alguma dúvida, joga lá no [nosso Discord](https://discord.gg/FXage6t99U) que respondemos prontamente.
+#### Instalando o Node no Windows
+
+1. Clique [aqui](https://nodejs.org/en/) e em seguida clique no botão de download que tem a sigla "LTS"
+1. Seu Windows é uma versão antiga? Então instale o Node com [este instalador](https://nodejs.org/download/release/v13.14.0/node-v13.14.0-win-x64.zip)
+1. Em seguida, basta seguir as instruções de instalação e pronto! **Importante:** o Node é um programa você vai executar dentro do terminal. Ou seja, no Windows, dentro do Git Bash!
+
+#### Instalando o Node no Linux
+1. Se estiver usando o Ubuntu, execute o comando `sudo apt install nodejs` no terminal
+1. Caso contrário, baixe o instalador [aqui](https://nodejs.org/en/download/).  **Importante:** o Node é um programa que não tem um ícone para clicar e executar. Ele na verdade funciona dentro do terminal. Ou seja, no Windows, dentro do Git Bash!
+
+#### Instalando o Node no MacOS
+1. Clique [aqui](https://nodejs.org/en/) e em seguida clique no botão de download que tem a sigla "LTS"
+1. Em seguida, basta seguir as instruções de instalação e pronto!  **Importante:** o Node é um programa você vai executar dentro do terminal.
 
 Finalmente! Vamos começar a praticar o terminal?
 
@@ -166,6 +178,8 @@ Agora vamos começar a trabalhar com o git:
 1. Execute `git log` e veja que o commit que você fez apareceu. Para sair, pressione a tecla Q
 
 Pronto! Este é o ciclo básico para registrar mudanças com o git. Inicializamos a pasta raiz do nosso repositório com `git init`, em seguida usamos `git status` para sempre verificar se tem alguma mudança que ainda não registramos. `git add` para adicionar mudanças a serem registradas e `git commit -m "mensagem de commit"` para registrar essa mudança feita. Por fim, `git log` para verificar o histórico de mudanças que fizemos em nossos arquivos.
+
+**IMPORTANTE:** realize as etapas 4, 5 e 6 apenas depois de participar da 2ª aula desta semana.
 
 ## Etapa 4: Criando sua conta no GitHub
 
