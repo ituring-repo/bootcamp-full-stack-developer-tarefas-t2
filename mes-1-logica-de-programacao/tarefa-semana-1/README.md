@@ -398,15 +398,18 @@ Para enviar a tarefa, basta copiar o link do seu repositório `bootcamp-full-sta
 Ao final de todas as etapas, o seu repositório deverá ter as seguintes pastas e arquivos:
 
 ```
-bootcamp-full-stack-ituring
--> mes-1-logica-de-programacao
-----> tarefa-semana-1
--------> resumo-aula-1.md
--------> index.html
--------> pratica-1.js
--------> pratica-2.js
--------> pratica-3.js
--------> pratica-4.js
--------> pratica-5.js
--------> pratica-6.js
+
+```
+📦 bootcamp-full-stack-ituring
+ ┗ 📂 mes-1-logica-de-programacao
+   ┗ 📂 tarefa-semana-1
+     ┣ 📜 resumo-aula-1.md
+     ┣ 📜 index.html
+     ┣ 📜 pratica-1.js
+     ┣ 📜 pratica-2.js
+     ┣ 📜 pratica-3.js
+     ┣ 📜 pratica-4.js
+     ┣ 📜 pratica-5.js
+     ┗ 📜 pratica-6.js
+```
 ```
