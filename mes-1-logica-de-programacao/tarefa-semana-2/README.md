@@ -68,13 +68,13 @@ Exemplo:
 ```javascript
 function minhaFuncao(meuArgumento) {
     // comandos aqui
-    return meuArgumento // opcional
+    return meuArgumento; // opcional
 }
 ```
 
 A função acima nomeada não é executada automaticamente, o computador quando passa por ela apenas entende que você está declarando uma função. Para de fato chamar a função, faça:
 ```javascript
-minhaFuncao(10)
+minhaFuncao(10);
 ```
 Para saber mais, acesse: 
 
@@ -232,7 +232,7 @@ Ela também funciona exatamente igual a expressão de função, mas possui algun
 Mas, como uma *arrow function* é construída? Veja esta função declarada que soma 2 números:
 ```javascript
 function soma2numeros(a, b) {
-  return a+b
+  return a+b;
 }
 
 console.log(soma2numeros(1, 1)) // exibe na tela o valor 2
@@ -240,7 +240,7 @@ console.log(soma2numeros(1, 1)) // exibe na tela o valor 2
 Veja como seria a função como expressão:
 ```javascript
 let soma2numeros = function(a, b) {
-  return a+b
+  return a+b;
 }
 
 console.log(soma2numeros(1, 1)) // exibe na tela o valor 2
@@ -248,7 +248,7 @@ console.log(soma2numeros(1, 1)) // exibe na tela o valor 2
 Agora veja como seria a expressão com *arrow function*:
 ```javascript
 let soma2numeros = (a, b) => {
-  return a+b
+  return a+b;
 }
 
 console.log(soma2numeros(1, 1)) // exibe na tela o valor 2
@@ -258,36 +258,36 @@ Com a *arrow function*, nós não utilizamos a palavra reservada *function* e ac
 
 Uma outra coisa interessante da *arrow function* é que ela retorna o valor por padrão caso você coloque **um único comando de uma única linha** e **sem chaves**. Ou seja:
 ```javascript
-let soma2numeros = (a, b) => a+b
+let soma2numeros = (a, b) => a+b;
 ```
 É a mesma coisa que:
 ```javascript
 let soma2numeros = (a, b) => {
-  return a+b
+  return a+b;
 }
 ```
 Atente-se que o retorno só acontecerá implicitamente se você deixar **sem chaves!**. Ou seja, se você fizer assim:
 ```javascript
-let soma2numeros = (a, b) => { a+b }
+let soma2numeros = (a, b) => { a+b };
 ```
 Ele não terá o `return` embutido. Além disso, se a sua função só tem um único parâmetro, você pode também remover os parênteses. Ou seja:
 ```javascript
-let potenciação = a => a*a
+let potenciação = a => a*a;
 ```
 É a mesma coisa que:
 ```javascript
-let potenciação = (a) => a*a
+let potenciação = (a) => a*a;
 ```
 Que também é a mesma coisa que:
 ```javascript
 let potenciação = (a) => {
-  return a*a
+  return a*a;
 }
 ```
 Que também é a mesma coisa que:
 ```javascript
 function potenciação(a) {
-  return a*a
+  return a*a;
 }
 ```
 
@@ -403,9 +403,9 @@ condição ? expressão1 : expressão2
 ```
 Este operador é uma expressão, ou seja, ele **sempre** termina com um valor. `expressão1` é o valor retornado caso `condição` seja `true`. Já `expressão2` é o valor retornado caso `condição` seja `false`. Por exemplo:
 ```javascript
-let a = 1
-let b = 2
-let maior = a > b ? a : b
+let a = 1;
+let b = 2;
+let maior = a > b ? a : b;
 ```
 Neste exemplo, se `a` for maior que `b`, ele retorna o valor de `a`. Caso contrário, ele retorna o valor de `b`. Portanto, neste caso, o valor armazenado em `maior` é o valor `b`, pois `a` não é maior que `b`, ou seja, a condição `a > b` é `false`. Como você faria pra retornar o menor valor? Esta será a prática 13.
 
