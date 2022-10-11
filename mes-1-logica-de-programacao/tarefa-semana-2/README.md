@@ -10,7 +10,7 @@ Na tarefa da semana 2, teremos as seguintes etapas:
 
 **Importante 1:** realize as etapas a partir do conteúdo de pastas e estrutura que você iniciou na 1ª semana.
 
-**Importante 2:** realize a etapa 3 apenas depois da 2ª aula desta semana.
+**Importante 2:** realize a etapa 3 apenas depois da 2ª aula da semana.
 
 ## Etapa 1: Preparando-se para programar
 
@@ -297,6 +297,8 @@ Bem diferente, né? O bacana é que economiza na escrita de código, mas o lado 
 3. Teste, veja se está funcionando, e depois faça o commit do seu código e suba ele no seu GitHub
 
 JavaScript é uma linguagem poderosa que traz muitos recursos e você pode fazer a mesma coisa de diferentes maneiras.
+
+**Importante:** realize a etapa 3 apenas depois da 2ª aula da semana.
 
 ## Etapa 3: Aplicando fluxos de decisões no código
 
