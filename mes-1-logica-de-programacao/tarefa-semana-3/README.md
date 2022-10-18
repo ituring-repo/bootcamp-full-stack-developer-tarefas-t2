@@ -298,7 +298,7 @@ suaFuncao(23)
 suaFuncao(15)
 suaFuncao(1500450271)
 ```
-**Retorno esperado de cada uma das chamadas:**
+**Retorno (ou seja, utilize o comando `return`) esperado de cada uma das chamadas:**
 ```
 true
 true
@@ -323,7 +323,7 @@ Agora vamos aprender a processar listas!
 
 ### Prática 4: Minha lista de seriados
 
-Crie uma função no arquivo `pratica-4.js` que recebendo como argumento uma lista de seriados quaiquer, exiba na tela cada um dos seriados com o índice de cada um na lista.
+Crie uma função no arquivo `pratica-4.js` que recebendo como argumento uma lista de seriados quaiquer, exiba na tela cada um dos seriados com o índice de cada um na lista. Para exibir, utilize o `console.log()` dentro da função.
 
 **Dado de entrada da função:**
 ```javascript
@@ -369,7 +369,7 @@ Elemento a ser buscado:
 ```javascript
 suaFuncao(["Breaking Bad", "Game of Thrones", "Stranger Things", "Chernobyl", "Dexter", "The Last Dance", "This is Us"], "Dexter")
 ```
-**Retorno esperado da função:**
+**Retorno (ou seja, utilize o comando `return`) esperado da função:**
 ```
 4
 ```
@@ -389,7 +389,7 @@ Elemento a ser buscado:
 ```javascript
 suaFuncao(["Breaking Bad", "Game of Thrones", "Stranger Things", "Chernobyl", "Dexter", "The Last Dance", "This is Us"], "Friends")
 ```
-**Retorno esperado da função:**
+**Retorno (ou seja, utilize o comando `return`) esperado da função:**
 ```
 undefined
 ```
@@ -414,7 +414,7 @@ Termo a ser buscado:
 ```javascript
 suaFuncao(["Breaking Bad", "Game of Thrones", "Stranger Things", "Chernobyl", "Dexter", "The Last Dance", "This is Us"], "Th")
 ```
-**Retorno esperado da função:**
+**Retorno (ou seja, utilize o comando `return`) esperado da função:**
 ```javascript
 ["Game of Thrones", "Stranger Things", "The Last Dance", "This is Us"]
 ```
@@ -425,7 +425,7 @@ Teste o seu código, veja se está funcionando de acordo com o exemplo de entrad
 
 ### Prática 7: Calculando o saldo final
 
-Crie uma função no arquivo `pratica-7.js` que recebendo como argumento uma lista de depósitos e retiradas como no exemplo abaixo, exiba o saldo final da conta.
+Crie uma função no arquivo `pratica-7.js` que recebendo como argumento uma lista de depósitos e retiradas como no exemplo abaixo, exiba o saldo final da conta via `console.log()` dentro da função.
 
 **Dado de entrada da função:**
 ```javascript
@@ -440,7 +440,7 @@ Teste o seu código, veja se está funcionando de acordo com o exemplo, e depois
 
 ### Prática 8: Calculando um extrato do banco simples
 
-Aproveite o seu código da Prática 7 e crie uma função no arquivo `pratica-8.js` que recebendo uma lista de depósitos e retiradas, exiba o resumo do extrato mensal de sua conta com as seguintes informações no exemplo abaixo.
+Aproveite o seu código da Prática 7 e crie uma função no arquivo `pratica-8.js` que recebendo uma lista de depósitos e retiradas, exiba o resumo do extrato mensal de sua conta com as seguintes informações no exemplo abaixo. Para exibir, utilize o `console.log()` dentro da função.
 
 **Dado de entrada da função:**
 ```javascript
@@ -469,7 +469,7 @@ Teste o seu código, veja se está funcionando de acordo com o exemplo, e depois
 
 ### Prática 9: Calculando um extrato do banco completo
 
-Aproveite o seu código da Prática 8 e crie uma função no arquivo `pratica-9.js` que recebendo uma lista de depósitos e retiradas, exiba um resumo completo do extrato mensal de sua conta com as seguintes informações no exemplo abaixo.
+Aproveite o seu código da Prática 8 e crie uma função no arquivo `pratica-9.js` que recebendo uma lista de depósitos e retiradas, exiba um resumo completo do extrato mensal de sua conta com as seguintes informações no exemplo abaixo. Para exibir, utilize o `console.log()` dentro da função.
 
 **Dado de entrada da função:**
 ```javascript
@@ -513,7 +513,7 @@ Os votos foram computados e registrados em uma lista.
 
 Agora eles precisam de uma pessoa que saiba programar para computar o resultado. Ou seja, de você!
 
-Por isso, crie uma função no arquivo `pratica-10.js` que recebendo como argumento uma lista de votos, exiba na tela quantos votos recebeu cada país com base no código acima.
+Por isso, crie uma função no arquivo `pratica-10.js` que recebendo como argumento uma lista de votos, exiba na tela quantos votos recebeu cada país com base no código acima. Para exibir, utilize o `console.log()` dentro da função.
 
 **Dados de entrada da função:**
 ```javascript
@@ -546,7 +546,7 @@ Algoritmos de ordenação estão presentes em milhares de aplicações ao redor 
 
 Agora é a sua vez. Não se preocupe com performance. Tente escrever um algoritmo de ordenação, não importa se ele não estiver eficiente. Esta prática será desafiadora, mas ela **não é opcional**. Não tem problema nenhum se não conseguir resolver. Qualquer coisa, vamos quebrar a cabeça juntos lá no nosso Discord.
 
-Crie uma função no arquivo `pratica-11.js` que recebe como argumento uma lista de números que representam a contagem de visualizações de vídeos de um canal no Youtube. Retorne a lista com os números ordem crescente.
+Crie uma função no arquivo `pratica-11.js` que recebe como argumento uma lista de números que representam a contagem de visualizações de vídeos de um canal no Youtube. Retorne a lista com os números ordem crescente. **Tente escrever um algoritmo de ordenação para resolver este problema.** Se não conseguir de forma alguma, não se preocupe, pois é desafiante mesmo. Neste caso, tente utilizar o [método de ordenação que já existe](https://www.w3schools.com/jsref/jsref_sort.asp) dentro da linguagem JavaScript.
 
 **Dado de entrada da função:**
 ```javascript
@@ -556,7 +556,7 @@ Crie uma função no arquivo `pratica-11.js` que recebe como argumento uma lista
 ```javascript
 suaFuncao([10, 45, 123, 18, 56, 45, 32, 98, 121, 232, 1392824])
 ```
-**Retorno esperado:**
+**Retorno (ou seja, utilize o comando `return`) esperado da função:**
 ```javascript
 [10, 18, 32, 45, 45, 56, 98, 121, 123, 232, 1392824]
 ```
@@ -567,7 +567,7 @@ Teste o seu código, veja se está funcionando de acordo com o exemplo, e depois
 
 Algo muito comum em trabalhos de escola é dividir a turma em grupos. Este método também é utilizado na computação, mais especificamente na hora de compactar arquivos para deixá-los com um tamanho menor. Não é o propósito aprender a compactar arquivos aqui, por isso vamos focar no 1º exemplo e dividir uma lista de pessoas em grupos.
 
-Crie uma função no arquivo `pratica-12.js` que recebe como argumento uma lista de pessoas e exibe na tela os grupos formados com 2 pessoas. Se faltar alguém, acrescente-a no último grupo. Veja abaixo um exemplo.
+Crie uma função no arquivo `pratica-12.js` que recebe como argumento uma lista de pessoas e exibe na tela os grupos formados com 2 pessoas. Utilize o `console.log()` dentro da função para exibir os grupos. Se faltar alguém, acrescente-a no último grupo. Veja abaixo um exemplo.
 
 **Dado de entrada da função:**
 ```javascript
