@@ -377,7 +377,7 @@ Caso a cor informada no parâmetro não coincida com nenhuma das informadas, inf
 
 Um dos termos comuns de desenvolvimento é traduzir em código os desafios do cotidiano. Para lidar com os meses, por exemplo, indicamos número 1 para janeiro, 2 para fevereiro ou outra nomenclatura dependendo de cada sistema. Para fortalecer o aprendizado, vamos criar um escopo menor com o seguinte desafio e links extras de leitura:
 
-1. Crie uma função que receba um número de 1 a 7 no arquivo `pratica-10.js`. 
+1. Crie uma função que receba um número de 1 a 7 no arquivo `pratica-12.js`. 
 2. Caso esse parâmetro seja diferente do valor informado, exiba na tela `O número ${parâmetro} não é válido para dia de semana`.
 3. Caso o valor esteja entre os valores permitidos, siga a regra a seguir para apresentar o retorno:
 
