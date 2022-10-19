@@ -311,7 +311,7 @@ true
 ```
 Teste o seu código, veja se está funcionando, e depois faça o commit e suba ele no seu GitHub.
 
-**Dica se estiver com dificuldade:** se um número primo é divisível apenas por 1 ou por ele mesmo, então basta verificar se algum número entre `1` e `n` são divisíveis por `n`, sendo `n` o número que você quer saber se é primo. Como verificar se é divisível? Se o resto da divisão for zero, significa que ele é divisível. Ou seja, utilize uma estrutura de repetição que vai verificando cada um dos números entre `1` e `n`. Se encontrar algum, então você pode retornar `true` imediatamente. Se não encontrar nenhum, então deverá retornar `false` após o loop.
+**Dica se estiver com dificuldade:** se um número primo é divisível apenas por 1 e por ele mesmo, então basta verificar se algum número entre `1` e `n` são divisíveis por `n`, sendo `n` o número que você quer saber se é primo. Como verificar se é divisível? Se o resto da divisão for zero, significa que ele é divisível. Ou seja, utilize uma estrutura de repetição que vai verificando cada um dos números entre `1` e `n`. Se encontrar algum, então você pode retornar `true` imediatamente. Se não encontrar nenhum, então deverá retornar `false` após o loop.
 
 ## Etapa 3: Iterando e processando listas
 
