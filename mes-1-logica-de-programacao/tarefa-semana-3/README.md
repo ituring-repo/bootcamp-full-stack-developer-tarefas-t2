@@ -540,11 +540,11 @@ Teste o seu código, veja se está funcionando de acordo com o exemplo de entrad
 
 ### Prática 11: Ordenação
 
-Ordene uma sequência de números não ordenados em ordem crescente. Tão comum no nosso cotidiano, parece algo simples, mas definitivamente não é. O algoritmo de ordenação mais rápido e utilizado no mundo é o [Quicksort](https://pt.wikipedia.org/wiki/Quicksort). Ele foi inventado (ou descoberto?) em 1960 por [Charles Hoare](https://pt.wikipedia.org/wiki/Charles_Antony_Richard_Hoare), um cientista da computação britânico.
+Ordene uma sequência de números não ordenados em ordem crescente. Tão comum no nosso cotidiano, parece algo simples, mas definitivamente não é. O algoritmo de ordenação mais rápido e utilizado no mundo é o [Quicksort](https://pt.wikipedia.org/wiki/Quicksort). Ele foi descoberto em 1960 por [Charles Hoare](https://pt.wikipedia.org/wiki/Charles_Antony_Richard_Hoare), um cientista da computação britânico.
 
 Algoritmos de ordenação estão presentes em milhares de aplicações ao redor do mundo. Um exemplo bastante comum é o "ordene os produtos por preço", como vemos em sites de compras.
 
-Agora é a sua vez. Não se preocupe com performance. Tente escrever um algoritmo de ordenação, não importa se ele não estiver eficiente. Esta prática será desafiadora, mas ela **não é opcional**. Não tem problema nenhum se não conseguir resolver. Qualquer coisa, vamos quebrar a cabeça juntos lá no nosso Discord.
+Agora é a sua vez. Não se preocupe com performance. Tente escrever um algoritmo próprio de ordenação, ou seja, uma solução de ordenação que você mesmo implementou. Não importa se ele não estiver eficiente. Além disso, não tente replicar o Quicksort neste primeiro momento, faça o seu algoritmo de ordenação. Esta prática será desafiadora, mas ela **não é opcional**. Não tem problema nenhum se não conseguir resolver. Qualquer coisa, vamos quebrar a cabeça juntos lá no nosso Discord.
 
 Crie uma função no arquivo `pratica-11.js` que recebe como argumento uma lista de números que representam a contagem de visualizações de vídeos de um canal no Youtube. Retorne a lista com os números ordem crescente. **Tente escrever um algoritmo de ordenação para resolver este problema.** Se não conseguir de forma alguma, não se preocupe, pois é desafiante mesmo. Neste caso, tente utilizar o [método de ordenação que já existe](https://www.w3schools.com/jsref/jsref_sort.asp) dentro da linguagem JavaScript.
 
