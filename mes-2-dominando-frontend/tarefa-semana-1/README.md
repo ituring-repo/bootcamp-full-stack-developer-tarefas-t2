@@ -47,7 +47,7 @@ Antes da gente começar a desenvolver o projeto, vamos criar o novo repositório
 1. No seu GitHub, crie um novo repositório remoto com o nome `turingwash-front-end`
 1. Agora faça o clone deste repositório remoto para a sua máquina local com `git clone url_do_repositorio_remoto`
 
-**Importante:** lembre-se que este é um repositório remoto completamente novo. Ou seja, ele não tem nenhuma relação com o repositório `bootcamp-full-stack-ituring`. Por isso, não faça o clone dentro do repositório local `bootcamp-full-stack-ituring`. Lembre-se, repositórios nunca devem ficar dentro de um outro repositório.
+**Importante:** lembre-se que este é um repositório remoto completamente novo. Ou seja, ele não tem nenhuma relação com o repositório `bootcamp-full-stack-ituring`. Por isso, no terminal, não faça o clone dentro da pasta do repositório local `bootcamp-full-stack-ituring`. Um repositório local nunca deve ficar dentro de um outro repositório local.
 
 A estrutura de pastas do seu repositório de tarefas `bootcamp-full-stack-ituring` deverá ficar da seguinte forma:
 
