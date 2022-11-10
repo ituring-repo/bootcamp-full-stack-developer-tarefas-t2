@@ -91,5 +91,6 @@ const dadosRestaurante = {
       }
     ]
 };
+Teste
 exibeMediaAvaliacoesS1(dadosRestaurante);
 exibeMediaAvaliacoesS2(dadosRestaurante);
