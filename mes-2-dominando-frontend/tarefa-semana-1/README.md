@@ -166,7 +166,7 @@ Se você conseguiu construir as 2 páginas com as tags HTML e ainda sobrou um te
 
 Para enviar a tarefa, dessa vez, basta copiar o link do seu repositório `turingwash-frontend` no GitHub e colar no formulário solicitado no [Discord do curso](https://discord.gg/FXage6t99U) no canal **#💪 │ tarefa-semana-1** do **Mês 2 - Dominando Front-End**.
 
-Ao final de todas as etapas, o seu repositório deverá ter as seguintes pastas e arquivos:
+Ao final de todas as etapas, os seus 2 repositórios deverão ter as seguintes pastas e arquivos:
 
 ```
 📦 bootcamp-full-stack-ituring
@@ -175,9 +175,12 @@ Ao final de todas as etapas, o seu repositório deverá ter as seguintes pastas 
  ┗ 📂 mes-2-dominando-frontend
    ┗ 📂 resumos
      ┗ 📜 resumo-semana-1.md
-   ┗ 📂 projeto-turingwash-frontend
-     ┣ 📜 pedirlavagem.html
-     ┣ 📜 meuscarros.html
-     ┣ 📜 adicionarcarro.html
-     ┗ 📜 minhaslavagens.html
+```
+
+```
+📦 turingwash-frontend
+ ┣ 📜 pedirlavagem.html
+ ┣ 📜 meuscarros.html
+ ┣ 📜 adicionarcarro.html
+ ┗ 📜 minhaslavagens.html
 ```
