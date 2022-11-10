@@ -44,11 +44,12 @@ A tarefa da Semana 1 do Mês 2 será entregue em um **novo repositório**. Vamos
 
 Antes da gente começar a desenvolver o projeto, vamos criar o novo repositório para o projeto:
 
-1. No seu GitHub, crie um novo repositório com o nome `turingwash-front-end`
-1. Agora faça o clone deste repositório para a sua máquina local com `git clone url_do_repositorio`
-1. Agora faça o commit e suba esta alteração para o seu GitHub
+1. No seu GitHub, crie um novo repositório remoto com o nome `turingwash-front-end`
+1. Agora faça o clone deste repositório remoto para a sua máquina local com `git clone url_do_repositorio_remoto`
 
-**Importante** A estrutura de pastas do seu repositório de tarefas `bootcamp-full-stack-ituring` deverá ficar da seguinte forma:
+**Importante:** lembre-se que este é um repositório remoto completamente novo. Ou seja, ele não tem nenhuma relação com o repositório `bootcamp-full-stack-ituring`. Por isso, não faça o clone dentro do repositório local `bootcamp-full-stack-ituring`. Lembre-se, repositórios nunca devem ficar dentro de um outro repositório.
+
+A estrutura de pastas do seu repositório de tarefas `bootcamp-full-stack-ituring` deverá ficar da seguinte forma:
 
 ```
 📦 bootcamp-full-stack-ituring
@@ -59,7 +60,7 @@ Antes da gente começar a desenvolver o projeto, vamos criar o novo repositório
      ┗ 📜 resumo-semana-1.md
 ```
 
-Já o novo repositório por enquanto deverá ficar assim:
+Já o novo repositório por enquanto deverá ficar assim, vazio:
 ```
 📦 projeto-turingwash-frontend
 ```
