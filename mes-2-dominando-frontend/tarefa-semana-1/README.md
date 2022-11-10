@@ -137,14 +137,6 @@ Ao final desta etapa, todos os seguintes arquivos deverão estar com o código H
 
 Nunca se esqueça! Teste o seu código, veja se está funcionando, e depois faça o commit e suba ele no seu GitHub.
 
-
-**Importante:** lembre-se que o navegador faz de tudo para renderizar corretamente o código HTML, mesmo se você tiver construído ele com vários erros de sintaxe (ex: esqueceu de fechar uma tag). Por isso, instale a extensão HTMLHint no VSCODE para verficiar se tem algum erro de sintaxe no seu código HTML. Para instalar:
-1. Vá em extensões no menu lateral esquerdo (é o ícone com 4 quadradinhos, sendo que 1 dele está solto)
-1. Digite `HTMLHint` no campo de busca
-1. Instale a extensão
-1. Agora, no topo direito do VSCode - bem lá no topo mesmo - tem 3 ícones bem pequenos. O ícone que tem um risco horizontal é o que abre o terminal do VSCODE. Clique nele
-1. Com o terminal do VSCODE aberto e com o HTMLHint instalado, sempre que você digitar alguma coisa errada no HTML, a aba "PROBLEMS" do terminal vai mostrar o que está errado para que você possa corrigir.
-
 **Importante:** lembre-se que o navegador faz de tudo para renderizar corretamente o código HTML, mesmo se você tiver construído ele com vários erros de sintaxe (ex: esqueceu de fechar uma tag). Por isso, instale a extensão HTMLHint no VSCODE para verficiar se tem algum erro de sintaxe no seu código HTML. Para instalar:
 1. Vá em extensões no menu lateral esquerdo (é o ícone com 4 quadradinhos, sendo que 1 dele está solto)
 1. Digite `HTMLHint` no campo de busca
@@ -182,6 +174,6 @@ Ao final de todas as etapas, os seus 2 repositórios deverão ter as seguintes p
 📦 turingwash-frontend
  ┣ 📜 pedirlavagem.html
  ┣ 📜 meuscarros.html
- ┣ 📜 adicionarcarro.html
- ┗ 📜 minhaslavagens.html
+ ┣ 📜 adicionarcarro.html (opcional)
+ ┗ 📜 minhaslavagens.html (opcional)
 ```
