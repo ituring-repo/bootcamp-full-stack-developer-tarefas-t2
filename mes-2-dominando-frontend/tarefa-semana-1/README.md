@@ -97,7 +97,7 @@ Baseando-se nessas User Stories, o time de design desenvolveu o layout dessas p�
 Agora é a sua vez:
 1. Dentro de `turingwash-frontend`, crie as páginas html para as seguintes telas: `pedirlavagem.html` e `meuscarros.html`
 2. Crie uma conta no [Miro](https://miro.com/pt/) e faça uma cópia do [nosso projeto](https://miro.com/welcomeonboard/MjI5NHp5dHd4MXFRVlZhVVFkY1NIcmZTZGk2OHpsa1MyZXg1TjMxMHk2VGNoSW9JS1N3MERmV3BZamlBa1ZwM3wzNDU4NzY0NTMyNDc5MDQzNjU0?share_link_id=28296698674). Para copiar, basta ir no `Ícone de engrenagem` -> `Board` -> `Make a copy`. **Importante:** ao copiar, clique em "Switch team" ao invés de "Duplicate board" para que a cópia só fique visível para você
-3. Agora, antes de começar a construir as páginas HTML, faça como o nosso instrutor mostrou em aula: delimite os elementos da página para que fique mais claro quais elementos/tags você deverá criar para estruturar as páginas. Já delimitamos a primeira! Agora faça o mesmo para as outras. Se não tiver certeza se ficou bom, mostre pra gente no Discord que ajudamos!
+3. Agora, antes de começar a construir as páginas HTML, faça como o nosso instrutor [mostrou em aula](https://www.youtube.com/watch?v=LV8Wfm4xey4&t=4507s&ab_channel=ITuring): delimite os elementos da página para que fique mais claro quais elementos/tags você deverá criar para estruturar as páginas. Já delimitamos a primeira! Agora faça o mesmo para as outras. Se não tiver certeza se ficou bom, mostre pra gente no Discord que ajudamos!
 4. Já delimitamos a página `pedirlavagem.html` para você, agora faça isto para as outras
 
 **Importante 1:** não delimite as páginas definidas para a versão mobile presentes no Miro.
