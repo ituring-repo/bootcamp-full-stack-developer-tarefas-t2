@@ -93,7 +93,7 @@ Pronto, agora finalmente bora continuar o desenvolvimento do projeto TuringWash!
 **Está fazendo em dupla?** Confira no final da descrição sobre dicas de como fazer esta etapa em dupla.
 
 Antes de você iniciar o desenvolvimento, tenha sempre em mãos os links que disponibilizamos para as telas e user stories do projeto TuringWash:
-- [Design das telas no Figma](www.figma.com/file/vLxv5eN0RWQTCIniGv2U9y/Turing-Wash?node-id=0%3A1)
+- [Design das telas no Figma](https://www.figma.com/file/vLxv5eN0RWQTCIniGv2U9y/Turing-Wash?node-id=0%3A1)
 - [Escopo do projeto (user stories) e telas no Miro](https://miro.com/welcomeonboard/MjI5NHp5dHd4MXFRVlZhVVFkY1NIcmZTZGk2OHpsa1MyZXg1TjMxMHk2VGNoSW9JS1N3MERmV3BZamlBa1ZwM3wzNDU4NzY0NTMyNDc5MDQzNjU0?share_link_id=28296698674) (utilize o seu Miro)
 
 Na semana 1 do mês 2, você fez o seguinte:
