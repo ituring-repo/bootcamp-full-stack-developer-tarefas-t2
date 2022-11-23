@@ -261,7 +261,7 @@ Recomendamos que vocês dividam entre vocês qual página cada um irá trabalhar
 
 ## Enviando a sua tarefa no Discord
 
-Para enviar a tarefa, basta copiar o link do seu repositório `bootcamp-full-stack-ituring` no GitHub e colar no formulário solicitado no [Discord do curso](https://discord.gg/FXage6t99U) no canal **#💪 │ tarefa-semana-2** do **Mês 2 - Dominando Front-End**.
+Para enviar a tarefa, basta copiar o link do seu repositório `turingwash-frontend` no GitHub e colar no formulário solicitado no [Discord do curso](https://discord.gg/FXage6t99U) no canal **#💪 │ tarefa-semana-2** do **Mês 2 - Dominando Front-End**.
 
 Ao final de todas as etapas, o seu repositório deverá ter as seguintes pastas e arquivos:
 ```
